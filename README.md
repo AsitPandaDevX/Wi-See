@@ -42,7 +42,7 @@ git clone https://github.com/AsitPandaDevX/Wi-See.git
 ## Citations
 If you find this repository helpful, please consider citing our work and giving the project a star ⭐ on GitHub! Your support helps us improve and maintain this project.
 
-* [[Cite this Repo with BibTeX]](https://raw.githubusercontent.com/AsitPandaDevX/Wi-See/master/docs/bibtex/repo1.bib)
-* [[Cite Publication-2]](https://raw.githubusercontent.com/AsitPandaDevX/Wi-See/master/docs/bibtex/pub2.bib)
-* [[Cite Publication-1]](https://raw.githubusercontent.com/AsitPandaDevX/Wi-See/master/docs/bibtex/pub1.bib)
+* [[Cite this Repo with BibTeX]](https://github.com/AsitPandaDevX/Wi-See/blob/main/Docs/bibtex/repo1.bib)
+* [[Cite Publication-2]](https://github.com/AsitPandaDevX/Wi-See/blob/main/Docs/bibtex/pub2.bib)
+* [[Cite Publication-1]](https://github.com/AsitPandaDevX/Wi-See/blob/main/Docs/bibtex/pub1.bib)
 
